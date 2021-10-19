@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Hông chịu đâu',
     question: 'nhấn cái "hông chịu đâu" chứ gì',
     btnReply: 'Gửi Tứng Anh nè',
-    reply: 'Tứng Anh dethuong henn',
+    reply: 'Tứng Anh dethuong hennnnnn     ',
     mess: 'Tứng Anh biết mà. Cảm ơn bạn mình rất nhiều nhe',
     messDesc: 'Hết dịch cho mình 123456789 ly trasua là được gòi.',
     btnAccept: 'Oce luôn ',
