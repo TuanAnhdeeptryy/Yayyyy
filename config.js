@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "Dear Tráo Đục",
+    introTitle: 'Tráo Đục',
+    introDesc: `Bị mụng hả? không sao đâu cố lên, buồn là nhiều bạn mụn kiếm để tâm sự đóa`,
+    btnIntro: 'Tiếp tục nè',
+    title: 'Bởi vậy nếu mà mụn chúng ta hãy nghe nhạc dzui nha 🥰',
+    desc: 'Dzui lên cỡ bài "bản nhạc buồn" vậy đó ',
+    btnYes: 'Đào cùi bắo',
+    btnNo: 'Hông hết buồn được đâu',
+    question: 'Thấy Tứng Anh hay hôngg',
+    btnReply: 'Gửi Tứng Anh',
+    reply: 'Tứng Anh quá deeptry quá giỏi quá thông minh',
+    mess: 'Tứng Anh biết mà 🥰. Cảm ơn Tráo Đục 😘😘',
+    messDesc: 'Hết dịch cho 1 ly trà sữa được gòi.',
+    btnAccept: 'Okiiiii lun ',
+    messLink: 'https://www.messenger.com/t/100054663648552/'
 }
